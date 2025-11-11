@@ -8,8 +8,8 @@ export default function Contact() {
     {
       icon: Mail,
       title: "Email",
-      value: "hello@pulssledger.com",
-      link: "mailto:hello@pulssledger.com",
+      value: "hello@fpa.agency",
+      link: "mailto:hello@fpa.agency",
     },
     {
       icon: Phone,

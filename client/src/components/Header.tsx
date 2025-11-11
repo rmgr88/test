@@ -20,10 +20,10 @@ export default function Header() {
       <div className="max-w-7xl mx-auto px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           <Link href="/" className="flex items-center gap-2 hover-elevate active-elevate-2 rounded-md px-2 py-1 -ml-2">
-            <div className="w-8 h-8 bg-primary rounded-md flex items-center justify-center">
-              <span className="text-primary-foreground font-bold text-lg">P</span>
+            <div className="w-10 h-8 bg-primary rounded-md flex items-center justify-center px-1.5">
+              <span className="text-primary-foreground font-bold text-sm tracking-tight">FPA</span>
             </div>
-            <span className="text-xl font-bold">PulseLedger</span>
+            <span className="text-xl font-bold">FP&A Agency</span>
           </Link>
 
           <nav className="hidden md:flex items-center gap-1">

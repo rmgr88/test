@@ -57,12 +57,12 @@ export default function About() {
         <section className="py-20 lg:py-24">
           <div className="max-w-7xl mx-auto px-6 lg:px-8">
             <div className="max-w-4xl mx-auto text-center mb-20">
-              <h1 className="text-5xl lg:text-6xl font-bold mb-6">About PulseLedger</h1>
+              <h1 className="text-5xl lg:text-6xl font-bold mb-6">About FP&A Agency</h1>
               <p className="text-xl text-muted-foreground leading-relaxed mb-8">
-                We're a team of finance, accounting, and technology experts dedicated to helping agencies and ecommerce businesses optimize their financial operations.
+                We're a team of financial planning, analysis, and technology experts dedicated to helping agencies and ecommerce businesses optimize their financial operations.
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                Founded in 2018, PulseLedger was born from a simple observation: growing businesses were being held back by outdated financial processes. We set out to change that by combining deep financial expertise with cutting-edge automation technology.
+                Founded in 2018, FP&A Agency was born from a simple observation: growing businesses were being held back by outdated financial processes. We set out to change that by combining deep FP&A expertise with cutting-edge automation technology.
               </p>
             </div>
 

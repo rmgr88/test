@@ -36,13 +36,13 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-12 mb-12">
           <div className="lg:col-span-2">
             <div className="flex items-center gap-2 mb-4">
-              <div className="w-8 h-8 bg-primary-foreground/10 rounded-md flex items-center justify-center">
-                <span className="text-primary-foreground font-bold text-lg">P</span>
+              <div className="w-10 h-8 bg-primary-foreground/10 rounded-md flex items-center justify-center px-1.5">
+                <span className="text-primary-foreground font-bold text-sm tracking-tight">FPA</span>
               </div>
-              <span className="text-xl font-bold">PulseLedger</span>
+              <span className="text-xl font-bold">FP&A Agency</span>
             </div>
             <p className="text-primary-foreground/80 mb-6 leading-relaxed">
-              Expert finance, accounting, and automation consulting for agencies and ecommerce businesses.
+              Expert financial planning, analysis, and automation consulting for agencies and ecommerce businesses.
             </p>
             <div className="flex gap-3">
               <Button size="icon" variant="ghost" className="hover:bg-primary-foreground/10" data-testid="link-linkedin">
@@ -77,7 +77,7 @@ export default function Footer() {
 
         <div className="border-t border-primary-foreground/20 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-sm text-primary-foreground/60">
-            © 2025 PulseLedger. All rights reserved.
+            © 2025 FP&A Agency. All rights reserved.
           </p>
           <div className="flex gap-6 text-sm text-primary-foreground/60">
             <a href="#" className="hover:text-primary-foreground transition-colors">Privacy Policy</a>

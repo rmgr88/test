@@ -5,7 +5,7 @@ export default function TestimonialCardExample() {
   return (
     <div className="max-w-2xl">
       <TestimonialCard
-        quote="PulseLedger transformed our financial operations. Their automation solutions reduced our monthly close time by 60% and gave us real-time visibility into our metrics."
+        quote="FP&A Agency transformed our financial operations. Their automation solutions reduced our monthly close time by 60% and gave us real-time visibility into our metrics."
         author="Sarah Johnson"
         role="CEO"
         company="Digital Marketing Co"

@@ -52,7 +52,7 @@ export default function Home() {
 
   const testimonials = [
     {
-      quote: "PulseLedger transformed our financial operations. Their automation solutions reduced our monthly close time by 60% and gave us real-time visibility into our metrics.",
+      quote: "FP&A Agency transformed our financial operations. Their automation solutions reduced our monthly close time by 60% and gave us real-time visibility into our metrics.",
       author: "Sarah Johnson",
       role: "CEO",
       company: "Digital Marketing Co",
@@ -60,7 +60,7 @@ export default function Home() {
       metric: "60% faster close process",
     },
     {
-      quote: "Working with PulseLedger was a game-changer. They helped us identify $200K in annual savings and implemented systems that scale with our growth.",
+      quote: "Working with FP&A Agency was a game-changer. They helped us identify $200K in annual savings and implemented systems that scale with our growth.",
       author: "Michael Chen",
       role: "CFO",
       company: "Ecommerce Innovations",

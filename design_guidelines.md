@@ -4,8 +4,8 @@
 **Hybrid Professional B2B Strategy**: Drawing inspiration from AgencyCFO, Stripe's trust-building aesthetics, and Linear's clean typography, creating a sophisticated yet approachable professional services platform. Focus on credibility, clarity, and conversion-optimized layouts.
 
 ## Brand Identity
-**Company Name**: PulseLedger (pulssledger.finance or pulssledger.consulting available)
-**Positioning**: Modern finance consultancy emphasizing automation and digital transformation for agencies and ecommerce
+**Company Name**: FP&A Agency (fpa.agency)
+**Positioning**: Modern financial planning & analysis consultancy emphasizing automation and digital transformation for agencies and ecommerce
 
 ## Color System
 
