@@ -1,6 +1,7 @@
 import { Link } from "wouter";
 import { Linkedin, Twitter, Mail } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import logoImage from "@assets/generated_images/FP&A_Agency_professional_logo_9f72670c.png";
 
 export default function Footer() {
   const footerSections = [
@@ -35,10 +36,8 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-6 lg:px-8 py-16">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-12 mb-12">
           <div className="lg:col-span-2">
-            <div className="flex items-center gap-2 mb-4">
-              <div className="w-10 h-8 bg-primary-foreground/10 rounded-md flex items-center justify-center px-1.5">
-                <span className="text-primary-foreground font-bold text-sm tracking-tight">FPA</span>
-              </div>
+            <div className="flex items-center gap-3 mb-4">
+              <img src={logoImage} alt="FP&A Agency" className="h-8 w-8 object-contain" />
               <span className="text-xl font-bold">FP&A Agency</span>
             </div>
             <p className="text-primary-foreground/80 mb-6 leading-relaxed">

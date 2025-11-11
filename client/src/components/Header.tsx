@@ -2,6 +2,7 @@ import { useState } from "react";
 import { Link, useLocation } from "wouter";
 import { Button } from "@/components/ui/button";
 import { Menu, X } from "lucide-react";
+import logoImage from "@assets/generated_images/FP&A_Agency_professional_logo_9f72670c.png";
 
 export default function Header() {
   const [location] = useLocation();
@@ -19,10 +20,8 @@ export default function Header() {
     <header className="fixed top-0 left-0 right-0 z-50 bg-background/90 backdrop-blur-lg border-b">
       <div className="max-w-7xl mx-auto px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
-          <Link href="/" className="flex items-center gap-2 hover-elevate active-elevate-2 rounded-md px-2 py-1 -ml-2">
-            <div className="w-10 h-8 bg-primary rounded-md flex items-center justify-center px-1.5">
-              <span className="text-primary-foreground font-bold text-sm tracking-tight">FPA</span>
-            </div>
+          <Link href="/" className="flex items-center gap-3 hover-elevate active-elevate-2 rounded-md px-2 py-1 -ml-2">
+            <img src={logoImage} alt="FP&A Agency" className="h-8 w-8 object-contain" />
             <span className="text-xl font-bold">FP&A Agency</span>
           </Link>
 
